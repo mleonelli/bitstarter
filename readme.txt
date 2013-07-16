@@ -1,1 +1,1 @@
-This is a basic bitstarter site.
+This is a basic bitstarter site. Cool
